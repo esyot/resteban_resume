@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "08 Aug 2021" },
+    {
+      "website": "<a target='blank' href=''></a>"
+    },
+    { "phone": "+63 966-867-4260" },
+    { "address": "Santa Catalina, Sagbayan, Bohol" }
+  ],
+  "data_2": [
+    { "age": 23 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>rei.nhard3356@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Santa Catalina, Sagbayan, Bohol, Philippines",
+    "+63 906-145-6801",
+    "<a href='mailto:someone@example.com'>rei.nhard3367@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2022 - 2024",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2017 - 2019",
+      "school": "San Agustin, National High School",
+      "address": "San Agustin, Sagbayan, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2010 - 2016",
+      "school": "Santa Catalina Elementary School",
+      "address": "Santa Catalina, Sagbayan, Bohol"
+    }
+  ]
+}
